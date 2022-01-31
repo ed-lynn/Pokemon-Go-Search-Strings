@@ -1,5 +1,4 @@
-# PoGo-Search-Strings
-Pokemon Go Search Strings
+# Pokemon Go Search Strings
 
 [Special Moves]		@special|!purified|!shadow
 
